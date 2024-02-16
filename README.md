@@ -8,7 +8,8 @@
                                             @ProfGesinelly
 
 
-![image](https://github.com/ProfGesinelly/ProfGesinelly/assets/106716290/0ac3ddfd-ed99-40c8-9e08-65e886a8080e)
+![Uploading image.png…]()
+
 
 <!---
 ProfGesinelly/ProfGesinelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
